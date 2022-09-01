@@ -43,7 +43,7 @@ span{
 
 
 .wrap {
-  background-color: #bb53bb;
+  background-color: hsl(277, 64%, 61%);
     position: relative;
     border-radius: 0px 8px 8px 0px;
 }
