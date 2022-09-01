@@ -26,17 +26,15 @@ span{
 
 .container{
   display: flex;
-  /* flex-direction:; */
   padding: 10%;
-  /* background: rgba(170, 91, 219, 1); */
-  
 }
+
 .title{
   font-size: xx-large;
 }
 
 .image{
-   mix-blend-mode: multiply;
+    mix-blend-mode: multiply;
     border-radius: 0px 8px 8px 0px;
     display: block;
     width: 100%;
@@ -47,18 +45,8 @@ span{
 .wrap {
   background-color: #bb53bb;
     position: relative;
+    border-radius: 0px 8px 8px 0px;
 }
-
-/* .wrap:before {
-  content:"";
-  position: absolute;
-  top:0;
-  left:0;
-  height:100%;
-  width:100%;
-  background: rgba(170, 91, 219, 1);
-  z-index: 1;
-  border-radius: 0px 8px 8px 0px ; */
 
 
 .text{
